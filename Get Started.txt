@@ -1,0 +1,21 @@
+Hi!
+
+ That's my Github that +/- represent my knowledge and skills that i aquired working on Microsoft Partners project
+  where i was in team that is responsible for UI, Api, Multiplayer/Netcode, Accessibility issues and analyst of designs.
+ As it was Game testing it's different - but not that much as many people thinks as it was not connected to gameplay tests but to api and UI.
+
+   The most part of my work is in the NDA and a lot of Tech stack is internal created for purposes of our project 
+   so for presentation of my knowledge i will use tech stack that is similar or which was used by me at work: 
+     free API that is available here: https://jsonplaceholder.typicode.com 
+   postman to read and work on API and Jira for tasks and bug repository. 
+     Please note: it's my first encounter with Github so it can lack of quality and as im using it for quality assurance - 
+	 things like branches, c: 
+   
+   
+   Usable links to fast copy: 
+   Github:
+   Jira:
+    -Tasks
+	-Bugs
+   API: https://jsonplaceholder.typicode.com 
+  
